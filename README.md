@@ -24,7 +24,7 @@ The key step is to use the API to call the load function lightweightly. Thanks t
 
 Finally, I compeleted this project. It can try about 3-4 passwords per second on my slow virtual machine. Therefore, the program can only crack a very limited amount of passwords. Why the attempts of password is very slow, my guess is that, this load function need to communicate with the libreoffice server and ask the server to load the ODT file.
 
-Funnily enough, after spending a lot of time to digging LibreOffice document and write the program, just before I was going to try all the possible combinations, I manually made one last attempt and figured out the password, surprisingly.
+Funnily enough, after spending a lot of time to digging LibreOffice document and write the program, just before I was going to try all the possible combinations, I manually made one last attempt and surprisingly figured out the lost password which troubled me a lot.
 
 It turned out that I had just forgot to capitalize the first letter of my password, and I made one of the most classic password mistakes.
 
